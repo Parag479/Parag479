@@ -1,6 +1,6 @@
 # 💫 About Me:
 🔭 I’m currently working on Web and Application Development<br>🌱 I’m currently learning Python, Cyber security <br>
-<img align="right" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
+<img align="right" width="400" src="https://app.lottiefiles.com/animation/61c67241-154e-4d1d-96fe-8fdddeea8e3d">
 
 
 
