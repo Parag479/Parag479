@@ -1,6 +1,6 @@
 # 💫 About Me:
 🔭 I’m currently working on Web and Application Development<br>🌱 I’m currently learning Python, Cyber security <br>
-<img align="right" width="300px" src="Animation - 1738654898830.gif"  loop =infinite />
+<img align="right" width="100px" src="Animation - 1738654898830.gif" style="margin-top:12px;"  loop =infinite />
 
 
 - 👨‍💻 All of my projects are available at [https://parag479.github.io/Profile/](https://parag479.github.io/Profile/)
