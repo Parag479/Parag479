@@ -1,6 +1,14 @@
 # 💫 About Me:
 🔭 I’m currently working on Web and Application Development<br>🌱 I’m currently learning Python, Cyber security <br>
+<img align="right" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
+
+
+- 👨‍💻 All of my projects are available at [https://parag479.github.io/Profile/](https://parag479.github.io/Profile/)
+
+- 💬 Ask me about **WEB DEVELOPMENT AND APP DESGIN**
+
+- 📫 How to reach me **pdubey479@gmail.com**
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/parag-dubey-70bb3112a/) 
