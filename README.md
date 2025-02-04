@@ -1,7 +1,6 @@
 # 💫 About Me:
 🔭 I’m currently working on Web and Application Development<br>🌱 I’m currently learning Python, Cyber security <br>
-<img align="right" width="400" src="https://app.lottiefiles.com/animation/61c67241-154e-4d1d-96fe-8fdddeea8e3d">
-
+<iframe src="https://lottie.host/embed/56b8c197-f444-4696-b471-4d10873c892f/8mnQ7n24sk.lottie"></iframe>
 
 
 - 👨‍💻 All of my projects are available at [https://parag479.github.io/Profile/](https://parag479.github.io/Profile/)
